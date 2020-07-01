@@ -1,0 +1,7 @@
+import shutil
+location = 'C:\\Users\\sai alekhya\\Documents\\sample1.txt'
+file = 'C:\\Users\\sai alekhya\\Downloads\\copedfile.txt'
+shutil.copy(location,file)
+
+
+
