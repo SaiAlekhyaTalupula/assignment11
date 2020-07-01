@@ -1,0 +1,7 @@
+a=list(input('enter the elements of the list'))
+for i in a:
+  if int(i)%2==0:
+    a.remove(i)
+  else:
+    pass
+print(l)
